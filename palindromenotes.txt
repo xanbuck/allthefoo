@@ -1,0 +1,9 @@
+
+//Examples:
+//        public void CountsSingleLetterAsPalindrome()
+//        public void CountsDoubleLetterAsPalindrome()
+//        public void SinglePalindromeReturnsOne()
+//        public void SingleNonPalindromeReturnsZero()
+//        public void TwoPalindromesReturnTwo()
+//        public void DoesNotCountNonPalindromes()
+//        public void IgnoresWhitespace()
